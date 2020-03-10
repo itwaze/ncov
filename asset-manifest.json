@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ncov/static/css/main.a85b93e9.chunk.css",
-    "main.js": "/ncov/static/js/main.2e114925.chunk.js",
+    "main.css": "/ncov/static/css/main.c6407911.chunk.css",
+    "main.js": "/ncov/static/js/main.db6c9811.chunk.js",
     "runtime-main.js": "/ncov/static/js/runtime-main.cc4ae880.js",
-    "static/js/2.e3f29879.chunk.js": "/ncov/static/js/2.e3f29879.chunk.js",
+    "static/js/2.57d12fe2.chunk.js": "/ncov/static/js/2.57d12fe2.chunk.js",
     "index.html": "/ncov/index.html",
-    "precache-manifest.6bb6a2f009b97dfb1f5f5c5c1dd71ec1.js": "/ncov/precache-manifest.6bb6a2f009b97dfb1f5f5c5c1dd71ec1.js",
+    "precache-manifest.b48c2dc817dca8337d09bd2db4151164.js": "/ncov/precache-manifest.b48c2dc817dca8337d09bd2db4151164.js",
     "service-worker.js": "/ncov/service-worker.js",
-    "static/js/2.e3f29879.chunk.js.LICENSE.txt": "/ncov/static/js/2.e3f29879.chunk.js.LICENSE.txt",
+    "static/js/2.57d12fe2.chunk.js.LICENSE.txt": "/ncov/static/js/2.57d12fe2.chunk.js.LICENSE.txt",
     "static/media/virus.svg": "/ncov/static/media/virus.b1b468f6.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.cc4ae880.js",
-    "static/js/2.e3f29879.chunk.js",
-    "static/css/main.a85b93e9.chunk.css",
-    "static/js/main.2e114925.chunk.js"
+    "static/js/2.57d12fe2.chunk.js",
+    "static/css/main.c6407911.chunk.css",
+    "static/js/main.db6c9811.chunk.js"
   ]
 }
