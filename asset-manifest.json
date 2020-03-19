@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.30d9935c.chunk.css",
-    "main.js": "/static/js/main.0ae11b83.chunk.js",
+    "main.css": "/static/css/main.303fccca.chunk.css",
+    "main.js": "/static/js/main.3014b795.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.7b347686.js",
     "static/js/2.10e9605c.chunk.js": "/static/js/2.10e9605c.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.7638ab844af3805b5cad1a04263b4e81.js": "/precache-manifest.7638ab844af3805b5cad1a04263b4e81.js",
+    "precache-manifest.2f281cc593670821fe608a809fc72f21.js": "/precache-manifest.2f281cc593670821fe608a809fc72f21.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.10e9605c.chunk.js.LICENSE.txt": "/static/js/2.10e9605c.chunk.js.LICENSE.txt",
     "static/media/virus.svg": "/static/media/virus.b1b468f6.svg"
@@ -13,7 +13,7 @@
   "entrypoints": [
     "static/js/runtime-main.7b347686.js",
     "static/js/2.10e9605c.chunk.js",
-    "static/css/main.30d9935c.chunk.css",
-    "static/js/main.0ae11b83.chunk.js"
+    "static/css/main.303fccca.chunk.css",
+    "static/js/main.3014b795.chunk.js"
   ]
 }
