@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d17f806.chunk.css",
+    "main.css": "/static/css/main.fabce527.chunk.css",
     "main.js": "/static/js/main.a26ed296.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.7b347686.js",
     "static/js/2.b5db551b.chunk.js": "/static/js/2.b5db551b.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.b0690bc290986fae04647a2afc6a5e9f.js": "/precache-manifest.b0690bc290986fae04647a2afc6a5e9f.js",
+    "precache-manifest.956d7ba2a432bc2336af015aae43b6e4.js": "/precache-manifest.956d7ba2a432bc2336af015aae43b6e4.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.b5db551b.chunk.js.LICENSE.txt": "/static/js/2.b5db551b.chunk.js.LICENSE.txt",
     "static/media/virus.svg": "/static/media/virus.b1b468f6.svg"
@@ -13,7 +13,7 @@
   "entrypoints": [
     "static/js/runtime-main.7b347686.js",
     "static/js/2.b5db551b.chunk.js",
-    "static/css/main.6d17f806.chunk.css",
+    "static/css/main.fabce527.chunk.css",
     "static/js/main.a26ed296.chunk.js"
   ]
 }
