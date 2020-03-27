@@ -1,6 +1,6 @@
-###### Website
+### Website
 🌎https://ncov.dev
 
 
-###### Telegram Bot  
+### Telegram Bot  
 🤖https://t.me/NovelCoronaBot
