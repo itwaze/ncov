@@ -1,5 +1,6 @@
-# Website
+###### Website
 🌎https://ncov.dev
 
-# Telegram Bot
-🤖https://t.me/NovelCoronaBot   
+
+###### Telegram Bot  
+🤖https://t.me/NovelCoronaBot
