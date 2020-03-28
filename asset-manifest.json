@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.07441c55.chunk.css",
-    "main.js": "/static/js/main.f911d3ff.chunk.js",
+    "main.css": "/static/css/main.732d5d26.chunk.css",
+    "main.js": "/static/js/main.30f8eb91.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.7b347686.js",
-    "static/js/2.7694dbab.chunk.js": "/static/js/2.7694dbab.chunk.js",
+    "static/js/2.417720bb.chunk.js": "/static/js/2.417720bb.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.07ef1eb68d593b61af6c5522eb7e886b.js": "/precache-manifest.07ef1eb68d593b61af6c5522eb7e886b.js",
+    "precache-manifest.0fb676fe7cf70627756052ffb7a5c44f.js": "/precache-manifest.0fb676fe7cf70627756052ffb7a5c44f.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.7694dbab.chunk.js.LICENSE.txt": "/static/js/2.7694dbab.chunk.js.LICENSE.txt",
+    "static/js/2.417720bb.chunk.js.LICENSE.txt": "/static/js/2.417720bb.chunk.js.LICENSE.txt",
+    "static/media/badge.css": "/static/media/corona.1c8aeada.png",
     "static/media/virus.svg": "/static/media/virus.b1b468f6.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7b347686.js",
-    "static/js/2.7694dbab.chunk.js",
-    "static/css/main.07441c55.chunk.css",
-    "static/js/main.f911d3ff.chunk.js"
+    "static/js/2.417720bb.chunk.js",
+    "static/css/main.732d5d26.chunk.css",
+    "static/js/main.30f8eb91.chunk.js"
   ]
 }
