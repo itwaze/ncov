@@ -8,6 +8,6 @@
 📩 itwaze@gmail.com
 
 ### Sources
-+ http://worldometers.info
++ https://worldometers.info
 + https://bnonews.com
 + https://gnews.io
